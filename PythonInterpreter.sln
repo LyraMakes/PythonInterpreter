@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythonInterpreter", "PythonInterpreter\PythonInterpreter.csproj", "{5B44A733-B893-4E56-9AF5-6DEE2D81CB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgParser", "ArgParser\ArgParser.csproj", "{1DE3E28E-B557-4B51-8F9D-642B92A4224C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B44A733-B893-4E56-9AF5-6DEE2D81CB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B44A733-B893-4E56-9AF5-6DEE2D81CB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B44A733-B893-4E56-9AF5-6DEE2D81CB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B44A733-B893-4E56-9AF5-6DEE2D81CB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE3E28E-B557-4B51-8F9D-642B92A4224C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE3E28E-B557-4B51-8F9D-642B92A4224C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE3E28E-B557-4B51-8F9D-642B92A4224C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE3E28E-B557-4B51-8F9D-642B92A4224C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
